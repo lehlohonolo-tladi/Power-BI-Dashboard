@@ -4,8 +4,7 @@ Come with me as I take you through my analysis of the reports.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-1. 22Seven Insights
-   
+1. 22Seven Insights   
  -Here we explore sales of retails stores across South Africa.
 -----------------------------------------------------------------------------------------------------------------------------
 2. Virtual Gaming Sales
