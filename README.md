@@ -1,8 +1,9 @@
-# Power-BI-Dashboard
+# Power-BI-Dashboards
 Here you will find Power BI Dashboards with different case studies.
 Come with me as I take you through my analysis of the reports.
 
 -----------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________
 1. 22Seven Insights
    -Here we explore sales of retails stores across South Africa.
 -----------------------------------------------------------------------------------------------------------------------------
